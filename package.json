@@ -1,0 +1,11 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^20.0.4",
+    "ramda": "^0.24.1",
+    "sinon": "^3.2.1"
+  }
+}
